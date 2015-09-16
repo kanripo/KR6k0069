@@ -1,22 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:44.202596
+#+DATE: 2015-08-30 20:43:45.362711
 #+TITLE: 佛說苾芻迦尸迦十法經
 #+PROPERTY: CBETA_ID T24n1480
 #+PROPERTY: ID KR6k0069
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1480
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0069_T_001-0956c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1480¶
-
- 佛說苾芻迦尸迦十法經¶
+No. 1480¶
+佛說苾芻迦尸迦十法經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚¶
-少卿傳教大師臣法天奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚少卿傳教大師臣法天奉　詔譯¶
 
 如來應正等覺。在舍衛國。與諸苾芻眾俱。是¶
 時如來廣為時會人天及彼未來而說師範。¶
